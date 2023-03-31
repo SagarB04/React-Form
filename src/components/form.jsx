@@ -88,7 +88,7 @@ export default function Form() {
                 <input
                     name='email'
                     type="email"
-                    placeholder='Email Address (example@gmail.com)'
+                    placeholder='Email Address (example@ggmail.com)'
                     onChange={handleChange}
                     value={formValue.email}
                 />
